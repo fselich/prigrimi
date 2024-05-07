@@ -10,7 +10,7 @@ This project was created to practice Go programming and to create a simple appli
 Thanks to Angie for the original and unintentional idea.
 
 ## Dependencies
-The code makes use of the text interface design library [BubbleTea](https://github.com/charmbracelet/bubbletea). For text input, the textInput package from [Bubbles](https://github.com/charmbracelet/bubbles) is used. 
+The code makes use of the text interface design library [BubbleTea](https://github.com/charmbracelet/bubbletea). For text input, the `textInput` package from [Bubbles](https://github.com/charmbracelet/bubbles) is used. 
 
 ## Running
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
